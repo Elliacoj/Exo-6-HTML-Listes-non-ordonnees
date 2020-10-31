@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b5b616d5-f987-462d-a1c3-cbfcea824762" name="Default Changelist" comment="Modif" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jQJYrMMvLpGshDViNDyRxC7Qj1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5b616d5-f987-462d-a1c3-cbfcea824762" name="Default Changelist" comment="" />
+      <created>1603730432727</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603730432727</updated>
+      <workItem from="1603730433815" duration="1621000" />
+      <workItem from="1603732060117" duration="130000" />
+      <workItem from="1603733370764" duration="6000" />
+      <workItem from="1603733409064" duration="17000" />
+      <workItem from="1603736379495" duration="55000" />
+      <workItem from="1604141283024" duration="151000" />
+      <workItem from="1604141465185" duration="187000" />
+    </task>
+    <task id="LOCAL-00001" summary="Modif">
+      <created>1603732166894</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603732166894</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Modif">
+      <created>1604141315713</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604141315713</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Modif" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modif" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="693" y="295" key="FileChooserDialogImpl" timestamp="1604141432215">
+      <screen x="0" y="0" width="1846" height="1080" />
+    </state>
+    <state x="693" y="295" key="FileChooserDialogImpl/1920.98.1286.768/0.0.1846.1080@0.0.1846.1080" timestamp="1604141432215" />
+    <state x="167" y="90" key="MergeDialog" timestamp="1604141491294">
+      <screen x="0" y="0" width="1846" height="1080" />
+    </state>
+    <state x="167" y="90" key="MergeDialog/1920.98.1286.768/0.0.1846.1080@0.0.1846.1080" timestamp="1604141491294" />
+    <state x="551" y="301" key="MultipleFileMergeDialog" timestamp="1604141491301">
+      <screen x="0" y="0" width="1846" height="1080" />
+    </state>
+    <state x="551" y="301" key="MultipleFileMergeDialog/1920.98.1286.768/0.0.1846.1080@0.0.1846.1080" timestamp="1604141491301" />
+    <state x="510" y="260" key="Vcs.Push.Dialog.v2" timestamp="1604141317214">
+      <screen x="0" y="0" width="1846" height="1080" />
+    </state>
+    <state x="505" y="260" key="Vcs.Push.Dialog.v2/1920.98.1267.768/0.0.1827.1080@0.0.1827.1080" timestamp="1603732168940" />
+    <state x="510" y="260" key="Vcs.Push.Dialog.v2/1920.98.1286.768/0.0.1846.1080@0.0.1846.1080" timestamp="1604141317214" />
+  </component>
+</project>
